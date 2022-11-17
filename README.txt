@@ -8,4 +8,4 @@ where I can showcase the Data Analysis work I have been working on.
 
 
 You can view the whole webiste via the link below:
-[https://allenlu1.github.io/](https://allenlu1.github.io/)
+(https://allenlu1.github.io/)
